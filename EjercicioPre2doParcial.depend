@@ -1,0 +1,251 @@
+# depslib dependency file v1.0
+1561221662 source:g:\ejerciciopre2doparcialv2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"LinkedList.h"
+	"UTN_Bibloteca.h"
+	"Validaciones.h"
+	"Empleado.h"
+
+1561221898 g:\ejerciciopre2doparcialv2\empleado.h
+	"LinkedList.h"
+
+1561218070 source:g:\ejerciciopre2doparcialv2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561156720 g:\ejerciciopre2doparcialv2\linkedlist.h
+
+1561157034 g:\ejerciciopre2doparcialv2\utn_bibloteca.h
+
+1561157152 g:\ejerciciopre2doparcialv2\validaciones.h
+
+1561221900 source:g:\ejerciciopre2doparcialv2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"Parser.h"
+	"LinkedList.h"
+	"UTN_Bibloteca.h"
+	"Validaciones.h"
+
+1561165266 g:\ejerciciopre2doparcialv2\parser.h
+	"LinkedList.h"
+
+1561215560 source:g:\ejerciciopre2doparcialv2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"Parser.h"
+	"LinkedList.h"
+	"UTN_Bibloteca.h"
+	"Validaciones.h"
+
+1561157238 source:g:\ejerciciopre2doparcialv2\utn_bibloteca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"UTN_Bibloteca.h"
+	"Validaciones.h"
+
+1561157236 source:g:\ejerciciopre2doparcialv2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"UTN_Bibloteca.h"
+	"Validaciones.h"
+
+1561609238 source:g:\prueba map\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"Parser.h"
+	"LinkedList.h"
+	"UTN_Bibloteca.h"
+	"Validaciones.h"
+
+1561609476 g:\prueba map\empleado.h
+	"LinkedList.h"
+
+1561608292 g:\prueba map\linkedlist.h
+
+1561608426 g:\prueba map\parser.h
+	"LinkedList.h"
+
+1561157034 g:\prueba map\utn_bibloteca.h
+
+1561157152 g:\prueba map\validaciones.h
+
+1561608788 source:g:\prueba map\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"Parser.h"
+	"LinkedList.h"
+	"UTN_Bibloteca.h"
+	"Validaciones.h"
+
+1561157238 source:g:\prueba map\utn_bibloteca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"UTN_Bibloteca.h"
+	"Validaciones.h"
+
+1561157236 source:g:\prueba map\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"UTN_Bibloteca.h"
+	"Validaciones.h"
+
+1561608958 source:g:\prueba map\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561609478 source:g:\prueba map\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"LinkedList.h"
+	"UTN_Bibloteca.h"
+	"Validaciones.h"
+	"Empleado.h"
+
+1561508498 source:e:\prueba map\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"LinkedList.h"
+	"UTN_Bibloteca.h"
+	"Validaciones.h"
+	"Empleado.h"
+
+1561156720 e:\prueba map\linkedlist.h
+
+1561157034 e:\prueba map\utn_bibloteca.h
+
+1561157152 e:\prueba map\validaciones.h
+
+1561221898 e:\prueba map\empleado.h
+	"LinkedList.h"
+
+1561221900 source:e:\prueba map\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"Parser.h"
+	"LinkedList.h"
+	"UTN_Bibloteca.h"
+	"Validaciones.h"
+
+1561165266 e:\prueba map\parser.h
+	"LinkedList.h"
+
+1561221922 source:e:\prueba map\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"Parser.h"
+	"LinkedList.h"
+	"UTN_Bibloteca.h"
+	"Validaciones.h"
+
+1561157238 source:e:\prueba map\utn_bibloteca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"UTN_Bibloteca.h"
+	"Validaciones.h"
+
+1561157236 source:e:\prueba map\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"UTN_Bibloteca.h"
+	"Validaciones.h"
+
+1561661006 source:g:\prueba counter\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561656892 g:\prueba counter\linkedlist.h
+
+1561157238 source:g:\prueba counter\utn_bibloteca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"UTN_Bibloteca.h"
+	"Validaciones.h"
+
+1561157034 g:\prueba counter\utn_bibloteca.h
+
+1561157152 g:\prueba counter\validaciones.h
+
+1561157236 source:g:\prueba counter\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"UTN_Bibloteca.h"
+	"Validaciones.h"
+
+1561661966 source:g:\prueba counter\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"Parser.h"
+	"LinkedList.h"
+	"UTN_Bibloteca.h"
+	"Validaciones.h"
+
+1561661196 g:\prueba counter\empleado.h
+	"LinkedList.h"
+
+1561608426 g:\prueba counter\parser.h
+	"LinkedList.h"
+
+1561641438 source:g:\prueba counter\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"Parser.h"
+	"LinkedList.h"
+	"UTN_Bibloteca.h"
+	"Validaciones.h"
+
+1561661344 source:g:\prueba counter\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"LinkedList.h"
+	"UTN_Bibloteca.h"
+	"Validaciones.h"
+	"Empleado.h"
+
